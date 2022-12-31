@@ -15,4 +15,4 @@ https://odo.dev/docs/overview/installation Finally, you'll also need kubectl ***
 
 3. A sample application
 
-In my demo I use a [sample Java Springboot application](https://spring.io/guides/gs/spring-boot/). However, `odo`supports [many modern frameworks](https://odo.dev/docs/user-guides/advanced/deploy/) such as Node.js, Java, .Net, Go, PHP, etc.
+In my demo I use a [sample Java Springboot application](https://spring.io/guides/gs/spring-boot/). However, `odo`supports [many modern frameworks](https://odo.dev/docs/user-guides/advanced/deploy/) such as [Node.js](https://odo.dev/docs/user-guides/advanced/deploy/nodejs), [Java](https://odo.dev/docs/user-guides/advanced/deploy/java), [.Net](https://odo.dev/docs/user-guides/advanced/deploy/dotnet), [Go](https://odo.dev/docs/user-guides/advanced/deploy/go), PHP, etc.
